@@ -115,7 +115,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-<Screenshot (22).png>
+![alt text](<Screenshot 2025-11-29 082331.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
